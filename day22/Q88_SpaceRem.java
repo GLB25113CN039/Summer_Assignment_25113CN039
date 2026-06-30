@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q87_SpaceRem 
+public class Q88_SpaceRem 
 {
     public static void main(String[] args)
      {
